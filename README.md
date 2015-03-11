@@ -1,4 +1,4 @@
-# bootstrapping
+# Block bootstrap for clustered data in R
 
 This repository contains R code for implementing the block bootstrap for ordinary least squares regression with clustered data. 
 
